@@ -1,0 +1,32 @@
+.about-pic {
+ height:100px;
+}
+
+  #about{
+    background-image: url("/assets/about-me.jpg");
+  
+     background-size: cover;
+     background-position: center;
+     height: 100vh;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     color: white;
+     text-align: center;
+     padding: 80px 20px;
+  }
+
+.about-container {
+  height: 100vh;
+  float:right;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #1e1e2f, #2c2c54);
+  color: white;
+  text-align: center;
+  padding: 50px 20px;
+  margin-top: 600px;
+}

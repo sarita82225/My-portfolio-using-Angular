@@ -1,0 +1,36 @@
+.projects-container {
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.card-grid {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+  color:black;
+}
+
+.card {
+  width: 250px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  transition: 0.3s;
+  background: #fff;
+}
+
+.card:hover{
+  transform: translateY(-5px);
+}
+
+
+
+img {
+  width: 100%;
+  border-radius: 10px;
+}
+h2{
+  padding-top:20px;
+  font-size:20px;
+}

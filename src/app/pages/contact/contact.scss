@@ -1,0 +1,29 @@
+.contact-container {
+  padding: 80px 20px;
+  text-align: center;
+  text-align: center;
+  background: grey;
+  margin-bottom: 0;
+}
+
+
+
+input, textarea {
+  padding: 10px;
+}
+
+
+
+form {
+  max-width: 400px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+button {
+  background: #00d4ff;
+  border: none;
+  padding: 10px;
+}

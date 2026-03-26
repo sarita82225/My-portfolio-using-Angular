@@ -1,0 +1,37 @@
+.navbar {
+  position: sticky;
+  top: 0;
+  background: #222;
+  padding: 15px;
+  color: white;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+
+a {
+  color: white;
+  cursor: pointer;
+  hover:blue;
+  text-decoration: none;
+}
+
+.header-img {
+  
+  width: 300px;
+  height: 100px;
+  object-fit: cover; /* KEY property */
+  top: 0;
+  left: 0;
+  
+
+}
