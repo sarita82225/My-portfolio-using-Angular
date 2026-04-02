@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # My-portfolio-using-Angular
 =======
 💼 Personal Portfolio – Angular 18
@@ -29,19 +29,19 @@ Styling: Bootstrap 5, CSS3
 
 Languages: TypeScript, HTML5
 
-Tools: Angular CLI, Git, GitHub
+Tools: Angular CLI, GitHub, Varcel
 
 📸 Screenshots
 <img width="1440" height="866" alt="image" src="https://github.com/user-attachments/assets/07405c44-cfd7-409b-bc56-b952161f828b" />
 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.21.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 21.2.3.
 
 ⚙️ Installation & Setup
 
-# Clone the repository:
-# Navigate to the project folder:
-# Install dependencies:
+# Clone the repository: https://github.com/sarita82225/My-portfolio-using-Angular.git
+# Navigate to the project folder: cd <project folder name>
+# Install dependencies: npm install
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
