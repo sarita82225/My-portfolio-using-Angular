@@ -3,8 +3,13 @@
     <h2 class="logo">MyPortfolio</h2>
 
   <img class="header-img" src="assets/name.jpg" alt="Sarita's about image" />
+
+   <!-- Mobile Menu Button -->
+    <div class="menu-toggle" (click)="toggleMenu()">
+      ☰
+    </div>
    
-    <ul>
+    <ul [class.active]="isMenuOpen">
       <li><a (click)="scroll('about')">About</a></li>
       <li><a (click)="scroll('projects')">Projects</a></li>
       <li><a (click)="scroll('contact')">Contact</a></li>
