@@ -1,6 +1,6 @@
 
 # My-portfolio-using-Angular
-=======
+
 💼 Personal Portfolio – Angular 18
 
 A modern, responsive personal portfolio website built using Angular 18 and Bootstrap 5. This project showcases my skills, projects, and experience as a software developer.
@@ -39,9 +39,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ⚙️ Installation & Setup
 
-# Clone the repository: https://github.com/sarita82225/My-portfolio-using-Angular.git
-# Navigate to the project folder: cd <project folder name>
-# Install dependencies: npm install
+1. Clone the repository: https://github.com/sarita82225/My-portfolio-using-Angular.git
+2.  Navigate to the project folder: cd <project folder name>
+3. Install dependencies: npm install
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
