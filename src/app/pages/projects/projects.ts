@@ -11,38 +11,38 @@ import { CommonModule } from '@angular/common';
 export class ProjectsComponent {
   projects = [
     {
-      title: ' Saaj E-commerce App',
-      image: 'https://via.placeholder.com/300',
-      description: 'This is small Ecommerce project with all functionalities and payment using react19, tailwind, node js and mongoDB(MERN)',
-      github:'https://github.com/sarita82225/SAAJ-Ecommerce-project-using-react19'
+      title: ' Login-app-using-Angular',
+      image: "",
+      description: 'A secure and responsive login application built with Angular that allows users to authenticate and access protected areas of the application.',
+      github:'https://github.com/sarita82225/Login-app-using-Angular'
       
     },
     {
       title: 'Mini-patient-dashboard',
-      image: 'https://via.placeholder.com/300',
+      image: '',
       description: 'This is a small web application where a dentist can view a list of patients and click on a patient to see their treatment history.',
         github:'https://github.com/sarita82225/Mini-Patient-Dashboard'
       
     },
     {
       title: 'my-Portfolio Website',
-      image: 'https://via.placeholder.com/300',
+      image: '',
       description: 'Personal portfolio website including complete details about myself',
         github:'https://github.com/sarita82225/My-portfolio-using-Angular'
       
     },
     {
-      title: 'ResAna360',
-      image: 'https://via.placeholder.com/300',
-      description: 'This is resume analyzer project where user can upload their resume and get the analysis of their resume and also get the suggestion to improve.',
-        github:'https://github.com/sarita82225/ResAna360'
+      title: 'Blog using Angular',
+      image: '',
+      description: 'A responsive blog application built with Angular that allows users to create, view, and manage blog posts with a clean and user-friendly interface..',
+        github:'https://github.com/sarita82225/Blog-using-Angular'
       
     },
 {
-      title: 'Food-delivery-app',
-      image: 'https://via.placeholder.com/300',
-      description: 'This is a food delivery app where user can order food online and get delivery at their doorsteps',
-        github:'https://github.com/sarita82225/Saaj-food-delivery'
+      title: 'ToDo-App-using-react',
+      image: '',
+      description: 'A responsive and user-friendly Todo application built with React that allows users to efficiently manage daily tasks by adding, editing, completing, and deleting todos.',
+        github:'https://github.com/sarita82225/ToDo-App-using-react'
 
     },
 
