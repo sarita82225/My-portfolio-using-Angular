@@ -10,9 +10,9 @@
     </div>
    
     <ul [class.active]="isMenuOpen">
-      <li><a (click)="scroll('about')">About</a></li>
-      <li><a (click)="scroll('projects')">Projects</a></li>
-      <li><a (click)="scroll('contact')">Contact</a></li>
+      <li><a (click)="scroll('about'); closeMenu()">About</a></li>
+      <li><a (click)="scroll('projects'); closeMenu()">Projects</a></li>
+      <li><a (click)="scroll('contact'); closeMenu()">Contact</a></li>
     </ul>
   </nav>
 </header>

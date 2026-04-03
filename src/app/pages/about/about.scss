@@ -4,8 +4,9 @@
 
   #about{
     background-image: url("/assets/about-me.jpg");
-  
-     background-size: cover;
+   background-size: cover;
+   background-repeat: no-repeat;/* don’t repeat the image */
+   width: 100%;
      background-position: center;
      height: 100vh;
      display: flex;

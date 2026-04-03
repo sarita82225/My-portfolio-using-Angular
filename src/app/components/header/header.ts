@@ -16,6 +16,9 @@ export class HeaderComponent {
 toggleMenu() {
   this.isMenuOpen = !this.isMenuOpen;
 }
+closeMenu(){
+  this.isMenuOpen = false;
+}
   scroll(id: string) {
     document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' });
   }
